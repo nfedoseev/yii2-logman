@@ -1,0 +1,24 @@
+{
+    "name": "nfedoseev/yii2-logman",
+    "type": "yii2-extension",
+    "description": "Log collecto on the Yii framework",
+    "keywords": ["errors", "yii", "yii2", "log", "log collector", "logger"],
+    "homepage": "https://github.com/nfedoseev/yii2-logman",
+    "license": "MIT",
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "authors": [
+        {
+            "name": "Nikita Fedoseev",
+            "email": "agent.daitel@gmail.com",
+            "homepage": "https://github.com/nfedoseev"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "nfedoseev\\yii2\\logman\\": ""
+        }
+    }
+}
