@@ -1,7 +1,7 @@
 {
     "name": "nfedoseev/yii2-logman",
     "type": "yii2-extension",
-    "description": "Log collecto on the Yii framework",
+    "description": "Log collector on the Yii framework",
     "keywords": ["errors", "yii", "yii2", "log", "log collector", "logger"],
     "homepage": "https://github.com/nfedoseev/yii2-logman",
     "license": "MIT",
